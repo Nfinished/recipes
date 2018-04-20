@@ -1,6 +1,10 @@
 module.exports = {
   title: 'Nfinished Recipes',
   description: "Improve your palate at your cholesterol's expense.",
+  head: [
+    ['link', { rel: 'icon', href: `/img/logo.png` }]
+  ],
+  ga: 'UA-68038797-5',
   themeConfig: {
     sidebar: [
       ['/BeefStew', 'Beef Stew'],
