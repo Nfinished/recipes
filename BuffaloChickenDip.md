@@ -9,15 +9,10 @@ sidebarDepth: 0
 
 
 + ___16oz___ Cream Cheese `softened`
-
 + ___3___ Chicken Breasts
-
 + ___1cup___ Hot Sauce
-
 + ___1cup___ Ranch Dressing
-
 + ___1cup___ Mozzarella Cheese `shredded`
-
 + ___1/2cup___ Blue Cheese `crumbled`
 
 

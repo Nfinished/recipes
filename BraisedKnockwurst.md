@@ -9,17 +9,11 @@ sidebarDepth: 0
 
 + ___1lb___ Knockwurst || Kielbasa
 + ___2___ Carrots
-
 + ___2 cloves || 1tsp___ Garlic `minced`
-
 + ___1___ Vidalia Onion `thinly sliced`
-
 + ___2___ Russet Potatoes `large diced`
-
 + ___3tsp___ Dijon Mustard `preferably whole grain`
-
 + Salt, Pepper
-
 + Olive Oil
 
 
