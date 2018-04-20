@@ -8,6 +8,6 @@ Most of them don't take any kind of special equipment or know-how, but one or tw
 
 If you'd like to contribute your own recipe, you can submit a pull request to the git repository, which can be found [here](https://github.com/Nfinished/recipes). Try to follow the same style as the rest of the recipes, but we can talk about it if you have any modifications or improvements to the form you'd like to make.
 
-Got something to say about a recipe? [Start an issue](https://github.com/Nfinished/recipes/issues/new) on Github.
+Got something to say about a recipe? [Start an issue](https://github.com/Nfinished/recipes/issues/new) on GitHub.
 
 [![Nfinished Logo](./img/logo.png)](http://unfinished.business)
