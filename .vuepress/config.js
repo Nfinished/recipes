@@ -2,7 +2,7 @@ module.exports = {
   title: 'Nfinished Recipes',
   description: "Improve your palate at your cholesterol's expense.",
   head: [
-    ['link', { rel: 'icon', href: `/img/logo.png` }]
+    ['link', { rel: 'icon', href: `http://unfinished.business/favicon-152.png` }]
   ],
   ga: 'UA-68038797-5',
   themeConfig: {
