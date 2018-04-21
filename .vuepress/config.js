@@ -13,7 +13,8 @@ module.exports = {
       ['/BuffaloMacAndCheese', "Buffalo Mac 'n Cheese"],
       ['/CastIronPizza', 'Cast Iron Pizza'],
       ['/ChickenNuggets', 'Chicken Nuggets'],
-      ['/CornedBeefHash', 'Corned Beef Hash']
+      ['/CornedBeefHash', 'Corned Beef Hash'],
+      ['/RoastPotatoes', 'Roast Potatoes']
     ]
   }
 }
