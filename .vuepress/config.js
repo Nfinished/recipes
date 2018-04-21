@@ -17,5 +17,10 @@ module.exports = {
       ['/CornedBeefHash', 'Corned Beef Hash'],
       ['/RoastPotatoes', 'Roast Potatoes']
     ]
+  },
+  markdown: {
+    anchor: {
+      permalink: false
+    }
   }
 }
