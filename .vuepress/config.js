@@ -1,6 +1,7 @@
 module.exports = {
   title: 'Nfinished Recipes',
-  description: "Improve your palate at your cholesterol's expense.",
+  description: "Cholesterall my favorite recipes in one place.",
+  keywords: 'cooking, recipes, cheese, potatoes',
   head: [
     ['link', { rel: 'icon', href: `http://unfinished.business/favicon-152.png` }]
   ],
