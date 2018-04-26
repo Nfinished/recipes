@@ -1,7 +1,6 @@
 module.exports = {
   title: 'Nfinished Recipes',
   description: "Cholesterall my favorite recipes in one place.",
-  keywords: 'cooking, recipes, cheese, potatoes',
   head: [
     ['link', { rel: 'icon', href: `http://unfinished.business/favicon-152.png` }]
   ],
@@ -15,6 +14,7 @@ module.exports = {
       ['/CastIronPizza', 'Cast Iron Pizza'],
       ['/ChickenNuggets', 'Chicken Nuggets'],
       ['/CornedBeefHash', 'Corned Beef Hash'],
+      ['/Garlic Butter Steak', 'Garlic Butter Steak'],
       ['/RoastPotatoes', 'Roast Potatoes']
     ]
   },
