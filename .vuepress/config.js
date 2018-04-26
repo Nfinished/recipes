@@ -15,6 +15,7 @@ module.exports = {
       ['/ChickenNuggets', 'Chicken Nuggets'],
       ['/CornedBeefHash', 'Corned Beef Hash'],
       ['/GarlicButterSteak', 'Garlic Butter Steak'],
+      ['CornBalls', 'Mozzarella Cornballs'],
       ['/OrangeChicken', 'Orange Chicken'],
       ['/RoastPotatoes', 'Roast Potatoes']
     ]
