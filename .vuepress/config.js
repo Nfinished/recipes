@@ -7,7 +7,7 @@ module.exports = {
   ga: 'UA-68038797-5',
   themeConfig: {
     nav: [
-      { text: 'Back To Business', link: 'https://unfinished.business' }
+      { text: 'Back To Business', link: 'http://unfinished.business' }
     ],
     sidebarDepth: 0,
     sidebar: [
