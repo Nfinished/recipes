@@ -6,6 +6,7 @@ module.exports = {
   ],
   ga: 'UA-68038797-5',
   themeConfig: {
+    repo: 'nfinished/recipes',
     nav: [
       { text: 'Back To Business', link: 'http://unfinished.business' }
     ],
