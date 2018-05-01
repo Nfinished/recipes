@@ -1,12 +1,5 @@
----
-sidebarDepth: 0
----
-
 # Slow-Cooked Buffalo Chicken Dip
-
 ## Ingredients
-
-
 
 + ___16oz___ Cream Cheese `softened`
 + ___3___ Chicken Breasts
@@ -15,11 +8,7 @@ sidebarDepth: 0
 + ___1cup___ Mozzarella Cheese `shredded`
 + ___1/2cup___ Blue Cheese `crumbled`
 
-
-
 ## Preparation
-
-
 
 1. Allow `cream cheese` to warm to room temperature.
 
@@ -27,8 +16,7 @@ sidebarDepth: 0
 
 3. Wait for `chicken` to cool. Shred with forks.
 
-4. Add `cream cheese`, then ___half___ of the `chicken` to the slow cooker. Top with ___1/2cup___ `hot sauce`, and ___1/2cup___ `ranch dressing`. Add remaining `chicken`, then 
-remaining `hot sauce` and `ranch dressing`.
+4. Add `cream cheese`, then ___half___ of the `chicken` to the slow cooker. Top with ___1/2cup___ `hot sauce`, and ___1/2cup___ `ranch dressing`. Add remaining `chicken`, then remaining `hot sauce` and `ranch dressing`.
 
 5. Sprinkle `mozzarella` and `blue cheese` over top.
 

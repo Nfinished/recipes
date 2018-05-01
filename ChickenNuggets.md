@@ -1,7 +1,3 @@
----
-sidebarDepth: 0
----
-
 # Pan Fried Chicken Nuggets
 ## Ingredients
 

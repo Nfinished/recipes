@@ -1,6 +1,3 @@
----
-sidebarDepth: 0
----
 # Cast Iron Pan Pizza
 ## Ingredients
 

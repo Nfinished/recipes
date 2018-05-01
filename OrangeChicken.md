@@ -1,7 +1,3 @@
----
-sidebarDepth: 0
----
-
 # Orange Chicken
 ## Ingredients
 

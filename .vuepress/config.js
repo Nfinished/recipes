@@ -6,6 +6,10 @@ module.exports = {
   ],
   ga: 'UA-68038797-5',
   themeConfig: {
+    nav: [
+      { text: 'Back To Business', link: 'https://unfinished.business' }
+    ],
+    sidebarDepth: 0,
     sidebar: [
       ['/BeefStew', 'Beef Stew'],
       ['/BraisedKnockwurst', 'Braised Knockwurst'],

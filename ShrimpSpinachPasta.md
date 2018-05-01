@@ -1,6 +1,3 @@
----
-sidebarDepth: 0
----
 # Spicy Shrimp & Spinach Pasta
 ## Ingredients
 
@@ -18,6 +15,7 @@ sidebarDepth: 0
 + Olive Oil
 
 ## Preparation
+
 1. Heat a film of `olive oil` over ___medium-high___ heat in a large pot. Add `onion` and cook, stirring regularly, for ___8-10min___ until very brown.
 2. Add `garlic butter` and cook an additional ___3-4min___ until very frothy and browned. Add `red wine` and reduce heat to a simmer, scraping the bottom of the pot.
 3. Stir in tomatoes and season. Cover and let simmer for ___30min___.

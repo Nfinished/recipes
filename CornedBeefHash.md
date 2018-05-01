@@ -1,7 +1,3 @@
----
-sidebarDepth: 0
----
-
 # Corned Beef Hash
 ## Ingredients
 

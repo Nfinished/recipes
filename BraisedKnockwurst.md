@@ -1,11 +1,5 @@
----
-sidebarDepth: 0
----
-
 # Braised Knockwurst
-
 ## Ingredients
-
 
 + ___1lb___ Knockwurst || Kielbasa
 + ___2___ Carrots
@@ -16,11 +10,7 @@ sidebarDepth: 0
 + Salt, Pepper
 + Olive Oil
 
-
-
 ## Preparation
-
-
 
 1. Heat ___1tbsp___ of `olive oil` on ___medium-high___ until hot. Add `garlic` and cook until lightly browned.
 
