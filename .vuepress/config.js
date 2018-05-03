@@ -18,6 +18,7 @@ module.exports = {
       ['/BuffaloMacAndCheese', "Buffalo Mac 'n Cheese"],
       ['/CastIronPizza', 'Cast Iron Pizza'],
       ['/ChickenNuggets', 'Chicken Nuggets'],
+      ['/ChorizoMacAndCheese', "Chorizo Mac 'n Cheese"],
       ['/CornedBeefHash', 'Corned Beef Hash'],
       ['/GarlicButterSteak', 'Garlic Butter Steak'],
       ['CornBalls', 'Mozzarella Cornballs'],
