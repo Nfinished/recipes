@@ -12,6 +12,7 @@ module.exports = {
     ],
     sidebarDepth: 0,
     sidebar: [
+      ['/BBQFriedRice', 'BBQ Fried Rice'],
       ['/BeefStew', 'Beef Stew'],
       ['/BraisedKnockwurst', 'Braised Knockwurst'],
       ['/BuffaloChickenDip', 'Buffalo Chicken Dip'],
