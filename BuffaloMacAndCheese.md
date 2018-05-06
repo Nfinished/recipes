@@ -28,5 +28,5 @@
 6. Melt ___2tbsp___ `butter` in a saucepan over ___medium___ heat. Stir in `flour` and `mustard` with a wooden spoon until smooth. Whisk in `half-and-half`, then add remaining ___1/4cup___ of hot sauce and stir until thick, about ___2min___. Wisk in `cheddar` and `pepper jack`, then whisk in `sour cream` until smooth.
 7. Pour `cheese mixture` into pot of cooked `macaroni`, stir to combine.
 8. Spread half of `macaroni and cheese mixture` into baking dish, layer `chicken` on top, then cover with remaining `macaronic and cheese mixture`.
-9. Melt remaining ___2tbsp___ butter in microwave. Stir in `bread crumbs`, `blue cheese`, and `parsley`. Spread over baking dish.
+9. Melt remaining ___2tbsp___ butter in microwave. Stir in `bread crumbs, blue cheese, and parsley`. Spread over baking dish.
 10. Bake ___30-40min___, rest ___10min___ before serving.

@@ -21,5 +21,5 @@
 
 1. Place `chicken` in a large bowl with `egg white`, 'salt', and 'pepper'. Massage to coat. Add larger portion of `cornstarch` and `flour`, massage again.
 2. Deep fry coated `chicken` for ___4-5min___ or until crispy and golden, set aside to drain.
-3. In a pan, combine `wine`, `soy sauce`, `orange` (juice and zest), `ginger`, `garlic`, `chili`, and 'vinegar'. Heat on ___medium-high___ until boiling then turn to ___low___. Create a slurry with the remaining `cornstarch` and stir in, heat on ___medium___ until sauce thickens. Stir in `honey`.
+3. In a pan, combine `wine, soy sauce, orange` (juice and zest), `ginger, garlic, chili`, and 'vinegar'. Heat on ___medium-high___ until boiling then turn to ___low___. Create a slurry with the remaining `cornstarch` and stir in, heat on ___medium___ until sauce thickens. Stir in `honey`.
 4. Add `chicken` and `sesame oil`, mix to coat. Serve with rice.
