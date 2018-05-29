@@ -1,4 +1,4 @@
-# Garlic Butter Steak & Potatoes
+# Garlic Butter Steak
 ## Ingredients
 
 + ___1 1/2lb___ Flank Steak `sliced, against grain`
