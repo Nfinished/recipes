@@ -2,7 +2,7 @@ module.exports = {
   title: 'Nfinished Recipes',
   description: "Cholesterall my favorite recipes in one place.",
   head: [
-    ['link', { rel: 'icon', href: `http://unfinished.business/favicon-152.png` }]
+    ['link', { rel: 'icon', href: `http://unfinished.business/favicon.png` }]
   ],
   ga: 'UA-68038797-5',
   themeConfig: {
