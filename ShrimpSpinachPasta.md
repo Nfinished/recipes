@@ -4,7 +4,7 @@
 + ___1lb___ Pasta `any variety`
 + ___1 bunch___ Fresh Parsely `minced`
 + ___1___ Yellow Onion `diced`
-+ ___1tbsp___ Garlic Butter `tbsp butter, 2 cloves`
++ ___1tbsp___ Garlic Butter `1 tbsp butter, 2 cloves`
 + ___1/4cup___ Cabernet Sauvignon
 + ___2lb___ Crushed Tomatoes
 + ___2lb___ Cherry Tomatoes `diced`
