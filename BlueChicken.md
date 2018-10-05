@@ -1,4 +1,4 @@
-# Orange Chicken
+# Blue Chicken
 ## Ingredients
 
 + ___1lb___ Chicken Breast `bite sized pieces`
