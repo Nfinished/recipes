@@ -25,7 +25,7 @@ module.exports = {
       ['CornBalls', 'Mozzarella Cornballs'],
       ['/OrangeChicken', 'Orange Chicken'],
       ['/RoastPotatoes', 'Roast Potatoes'],
-      ['/ShrimpSpinachPasta', 'Spicy Shrimp & Spinach Pasta']
+      ['/ShrimpSpinachPasta', 'Spicy Shrimp & Spinach Pasta'],
       ['/Waffles', 'Waffles']
     ]
   },
