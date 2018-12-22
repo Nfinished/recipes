@@ -26,6 +26,7 @@ module.exports = {
       ['/OrangeChicken', 'Orange Chicken'],
       ['/RoastPotatoes', 'Roast Potatoes'],
       ['/ShrimpSpinachPasta', 'Spicy Shrimp & Spinach Pasta']
+      ['/Waffles', 'Waffles']
     ]
   },
   markdown: {
